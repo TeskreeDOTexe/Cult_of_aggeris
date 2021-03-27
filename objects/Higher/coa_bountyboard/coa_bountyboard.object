@@ -1,0 +1,90 @@
+{
+  "objectName" : "coa_bountyboard",
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 0,
+  "printable" : false,
+
+  "description" : "A notice board with a bunch of used furnishings on sale.",
+  "shortdescription" : "Notice Board",
+  "race" : "protectorate",
+
+  "apexDescription" : "Even if they don't allow it, some of these could liven up my house.",
+  "avianDescription" : "Hmmm... wonder if they have any prayer alters?",
+  "floranDescription" : "Many wordsss and pictures, floran not underssstand.",
+  "glitchDescription" : "Overjoyed. Oh oh oh, I wonder what new things they have on sale!",
+  "humanDescription" : "Could use a new sofa... last party was a mess.",
+  "hylotlDescription" : "The possibility of a art tabl- That's a nice tea table.",
+  "novakidDescription" : "Huh... Looks more like a bounty board over a furnishing advert.",
+
+  "interactAction" : "OpenMerchantInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/vendingmachine.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {	
+        "title" : "Notice Board",
+        "subtitle" : "For your CoA fashsioned needs"
+      }
+    },
+    "buyFactor" : 0.5,
+    "sellFactor" : 0.2,
+    "items" : [
+	    { "item" : "coa_survival_hood"},
+    { "item" : "coa_survival_chest"},
+    { "item" : "coa_survival_pants"},
+	  { "item" : "coa_ornatetable" },
+	  { "item" : "coa_ornateclothtable" },
+	  { "item" : "coa_ornatechair" },
+    { "item" : "coa_ornatenightstand"},
+	  { "item" : "coa_ornatebed" },
+    { "item" : "coa_ornatedoor"},
+	  { "item" : "coa_fancytable" },
+	  { "item" : "coa_fancyclothtable" },
+	  { "item" : "coa_fancychair" },
+	  { "item" : "coa_fancybed" },
+    { "item" : "coa_fancydoor"},
+	  { "item" : "coa_softstool" },
+	  { "item" : "coa_plushcouch" },
+	  { "item" : "coa_flag" },
+	  { "item" : "coa_largebanner1" },
+	  { "item" : "coa_smallbanner1" },
+	  { "item" : "coa_bluesmallcrate" },
+	  { "item" : "coa_barsmallcrate" },
+	  { "item" : "coa_clothsmallcrate" },
+	  { "item" : "coa_bluelargecrate" },
+	  { "item" : "coa_barlargecrate" },
+	  { "item" : "coa_bluevaultcrate" },
+	  { "item" : "coa_woventable" },
+	  { "item" : "coa_simpletable" },
+	  { "item" : "coa_simpleclothtable" },
+	  { "item" : "coa_smalltable" },
+	  { "item" : "coa_smallclothtable" },
+	  { "item" : "coa_basicchair" },
+	  { "item" : "coa_basicclothchair" },
+	  { "item" : "coa_basicstool" },
+	  { "item" : "coa_basicclothstool" },
+	  { "item" : "coa_sturdysmallcrate" },
+    { "item" : "coa_sturdylargecrate" },
+    { "item" : "coa_vialrack1"},
+    { "item" : "coa_vialrack2"},
+    { "item" : "coa_mortar"},
+    { "item" : "coa_moteholder1"},
+    { "item" : "coa_book1"},
+    { "item" : "coa_book2"},
+    { "item" : "coa_book3"},
+    { "item" : "coa_book4"}
+    ]
+  },
+
+  "inventoryIcon" : "coa_bountyboard.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_bountyboard.png:<color>",
+      "imagePosition" : [-22, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+
+    }
+  ]
+}

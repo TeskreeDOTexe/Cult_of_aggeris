@@ -1,0 +1,16 @@
+{
+  "name" : "coa_weakbleed",
+  "blockingStat" : "bleedImmunity",
+
+  "effectConfig" : {},
+  "defaultDuration" : 2.5,
+
+  "scripts" : [
+    "coa_weakbleed.lua"
+  ],
+
+  "animationConfig" : "coa_weakbleed.animation",
+
+  "label" : "bleed",
+  "icon" : "/interface/statuses/coa_weakbleed.png"
+}

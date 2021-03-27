@@ -1,0 +1,46 @@
+{
+  "objectName" : "coa_ornatebed",
+  "colonyTags" : ["misc","tier1"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A small ornate bed.",
+  "shortdescription" : "Highend Ornate Bed",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 100,
+
+  "apexDescription" : "A small and plush bed, probably for children.",
+  "avianDescription" : "This bed feels great on my feathers.",
+  "floranDescription" : "Floran findsss bed really sssoft.",
+  "glitchDescription" : "Amused. To think that I can rest on something THIS soft.",
+  "humanDescription" : "Wonder if the pillows are durable...",
+  "hylotlDescription" : "I must admit, this bed is small but comfy.",
+  "novakidDescription" : "Soft and what not, but you just sink right through.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 13],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/Higher/Ornate/coa_ornatebed/coa_ornatebedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "coa_ornatebedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_ornatebed.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

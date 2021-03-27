@@ -1,0 +1,59 @@
+{
+  "objectName" : "coa_ornatedoor",
+  "colonyTags" : ["glitch","glitchvillage","door"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 50,
+  "description" : "A ornate door with a heavy stopper on top.",
+  "shortdescription" : "Barred Ornate Door",
+  "race" : "glitch",
+
+  "apexDescription" : "Who would put such a heavy yet brittle metal on a door?",
+  "avianDescription" : "Ahem... Such silverware belongs on a table... not a door",
+  "floranDescription" : "Door hasss cold metalsss.",
+  "glitchDescription" : "Exhausted. These doors were annoying to replace...",
+  "humanDescription" : "Hnnng, this door is too heavy to bu- oh theres a handle...",
+  "hylotlDescription" : "Why would someone construct a wooden door with a heavy metal frame?",
+  "novakidDescription" : "Looks good for target practice instead of a door...",
+
+  "inventoryIcon" : "coa_ornatedoor.png",
+
+  "tooltipKind" : "door",
+  "largeImage" : "coa_ornatedoor.png:right",
+  
+  "orientations" : [
+    {
+      "image" : "coa_ornatedoor.png:default",
+      "imagePosition" : [-16, 0],
+      "renderLayer" : "Object+5",
+
+      "spaces" : [ [0, 0], [0, 1], [0, 2], [0, 3], [0, 4] ],
+      "anchors" : [ "bottom", "top" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/woodendoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/woodendoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "coa_ornatedoor.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "inputNodes" : [ [0, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

@@ -1,0 +1,33 @@
+{
+  "objectName" : "coa_mortar",
+  "colonyTags" : ["glitch","pretty","evil"],
+  "rarity" : "Common",
+  "description" : "A small mortar and pestle for your alchemical needs.",
+  "shortdescription" : "Mortar and Pestle",
+  "race" : "glitch",
+  "category" : "decorative",
+  "price" : 100,
+
+  "apexDescription" : "The contents look powdery yet soupish.",
+  "avianDescription" : "I... I don't really have anything to say about this...",
+  "floranDescription" : "Bleh, floran no like powders.",
+  "glitchDescription" : "Forgetful. I always forgot the exact mixtures to use for motes...",
+  "humanDescription" : "Eugh, that's NOT what mash taste like.",
+  "hylotlDescription" : "augh, that's a rancid smell.",
+  "novakidDescription" : "Don't taste all that bad... wait is this supposed to be consumed?",
+
+  "inventoryIcon" : "coa_mortaricon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_mortar.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

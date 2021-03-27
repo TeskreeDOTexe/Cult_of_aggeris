@@ -1,0 +1,41 @@
+{
+  "itemName" : "coa_tier2partisan",
+  "level" : 2,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "An ordinary iron Fhuris spear. It is usual for guards to use.",
+  "shortdescription" : "Fhuris Spear",
+  "tooltipKind" : "object",
+  "category" : "spear",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","spear"],
+
+  "inventoryIcon" : "coa_tier2partisan.png",
+
+  "animation" : "/items/active/weapons/melee/spear/spear.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "coa_tier2partisan.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_spear.ogg" ]
+    }
+  },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "physical",
+
+  "aimOffset" : -1.0,
+
+  "primaryAbilityType" : "spearstab",
+  "primaryAbility" : {
+    "fireTime" : 0.95,
+    "baseDps" : 10.5
+  },
+
+  "altAbilityType" : "parry",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

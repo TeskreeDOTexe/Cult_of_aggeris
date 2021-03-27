@@ -1,0 +1,15 @@
+{
+  "itemName" : "coa_altioredye",
+  "price" : 500,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "coa_altioredye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "CoA Altiore Dye",
+
+  "dyeDirectives" : {"ffca8a":"C07F89","e0975c":"9E3E52","a85636":"771E40","6f2919":"4A0A2A"},
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

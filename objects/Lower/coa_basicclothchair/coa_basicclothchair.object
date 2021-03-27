@@ -1,0 +1,37 @@
+{
+  "objectName" : "coa_basicclothchair",
+  "colonyTags" : ["misc"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "An uncomfortable chair with a cozy leather cloth.",
+  "shortdescription" : "Zelfitz Covered Chair",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 100,
+
+  "apexDescription" : "Like the other chair, but the saving grace is this leather.",
+  "avianDescription" : "Oh my, this leather is soft.",
+  "floranDescription" : "Leather isss soft. Feels good to touch.",
+  "glitchDescription" : "Moderate. Crude but comfy.",
+  "humanDescription" : "Oh boy, this leather is soft!",
+  "hylotlDescription" : "This very crudely made but I'll make the exeption for the leather.",
+  "novakidDescription" : "Softer than the cows back at the range.",
+
+  "inventoryIcon" : "coa_basicclothchairicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_basicclothchair.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [1, 23]
+
+}

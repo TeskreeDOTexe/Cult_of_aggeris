@@ -1,0 +1,35 @@
+{
+  "objectName" : "coa_largebanner1",
+  "colonyTags" : ["avian","avianvillage","pretty"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 100,
+
+  "description" : "A thick woven banner depicting a large crystal.",
+  "shortdescription" : "CoA Banner",
+  "race" : "human",
+
+  "apexDescription" : "A gloomy banner, it depicts a  rater large crystal.",
+  "avianDescription" : "We have crystals of our own, nothing to fawn over.",
+  "floranDescription" : "Floran not underssstand cryssstal banner.",
+  "glitchDescription" : "Dreadful. Those who hung this banner were no better than the one they praised.",
+  "humanDescription" : "This banner doesn't taste like blueberry...",
+  "hylotlDescription" : "A crystal, something that holds little purpose to Hylotl.",
+  "novakidDescription" : "Eh? Who put a rug on the wall?",
+
+
+  "inventoryIcon" : "coa_largebanner1icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_largebanner1.png:<color>",
+	  
+      "imagePosition" : [-8, -32],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "bgAnchors" : [ [0, 0], [-1, 0], [1, 0] ]
+
+    }
+  ]
+}

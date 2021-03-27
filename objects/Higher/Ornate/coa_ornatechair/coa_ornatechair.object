@@ -1,0 +1,37 @@
+{
+  "objectName" : "coa_ornatechair",
+  "colonyTags" : ["misc"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A chair with beautiful engravings.",
+  "shortdescription" : "Highend Ornate Chair",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 100,
+
+  "apexDescription" : "Compared to the other chairs, the cushion is thin.",
+  "avianDescription" : "Oh, it's soft but rather thin",
+  "floranDescription" : "Chair hasss thin pillow.",
+  "glitchDescription" : "Disappointed. Once again, no arm rest.",
+  "humanDescription" : "Bet'cha never sat on a chair THIS comfy.",
+  "hylotlDescription" : "Its a orante kjil cushioned chair. Yet the cushion is thin.",
+  "novakidDescription" : "Its simple but nice to rest on after a long day.",
+
+  "inventoryIcon" : "coa_ornatechairicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_ornatechair.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [1, 22]
+
+}

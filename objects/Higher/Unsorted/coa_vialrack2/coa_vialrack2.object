@@ -1,0 +1,33 @@
+{
+  "objectName" : "coa_vialrack2",
+  "colonyTags" : ["glitch","pretty","evil"],
+  "rarity" : "Common",
+  "description" : "Assorted test tubes of various fluids.",
+  "shortdescription" : "Wide Vial Rack",
+  "race" : "glitch",
+  "category" : "decorative",
+  "price" : 100,
+
+  "apexDescription" : "None of these have labels... This is gonna be a problem.",
+  "avianDescription" : "Yeah, no this isn't something we'd use...",
+  "floranDescription" : "euuuugh... Floran really doesn't feel good.",
+  "glitchDescription" : "Confused. Great, now I have to deal with more to clean?",
+  "humanDescription" : "Mhmmmm, a bit nutty.",
+  "hylotlDescription" : "Someone please, remove these at once. The smell is just too much.",
+  "novakidDescription" : "This looks like one big accident waiting to happen.",
+
+  "inventoryIcon" : "coa_vialrack2icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_vialrack2.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

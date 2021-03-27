@@ -1,0 +1,15 @@
+{
+  "itemName" : "coa_bluedye",
+  "price" : 500,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "coa_bluedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "CoA Blue Dye",
+
+  "dyeDirectives" : {"ffca8a":"6887A6","e0975c":"435774","a85636":"262F43","6f2919":"11141E"},
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

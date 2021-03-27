@@ -1,0 +1,45 @@
+{
+  "objectName" : "coa_clothsmallcrate",
+  "colonyTags" : ["storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A small clothed container.",
+  "shortdescription" : "Kjil Clothed Crate",
+  "race" : "glitch",
+  "category" : "storage",
+  "price" : 100,
+  "health" : 1.5,
+
+  "apexDescription" : "This fabric is really soft.",
+  "avianDescription" : "Oooh! This is really soft, save for the crate under it.",
+  "floranDescription" : "Box covered by sssoft whool.",
+  "glitchDescription" : "Satisfied. Only a K'jil moth's whool can be this soft",
+  "humanDescription" : "Holy cow, this whool is soft!",
+  "hylotlDescription" : "Despite the crude construction, the whool is soft.",
+  "novakidDescription" : "Butter my biscuits, this cloth is soft!",
+
+  "inventoryIcon" : "coa_clothsmallcrateicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_clothsmallcrate.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

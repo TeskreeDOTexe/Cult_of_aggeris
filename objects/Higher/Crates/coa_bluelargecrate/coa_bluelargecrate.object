@@ -1,0 +1,45 @@
+{
+  "objectName" : "coa_bluelargecrate",
+  "colonyTags" : ["storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A peculiar crate fortified with lost ores.",
+  "shortdescription" : "Large CoA Crate",
+  "race" : "glitch",
+  "category" : "storage",
+  "price" : 100,
+  "health" : 1.5,
+
+  "apexDescription" : "Looks horridly outdated. I can only imagine the use of this.",
+  "avianDescription" : "Hm, I give effort for the engravings. Everything else... eugh.",
+  "floranDescription" : "Floran thinksss box sssmells funny.",
+  "glitchDescription" : "Contempt. I wis for this to be removed from my sight.",
+  "humanDescription" : "We severed our ties ages ago, but it doesn't mean I can't use it!",
+  "hylotlDescription" : "Seems to have a strong structure. Good effort, but bad taste.",
+  "novakidDescription" : "It doe- Hey, it has weapon racks!",
+
+  "inventoryIcon" : "coa_bluelargecrateicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_bluelargecrate.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 24,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

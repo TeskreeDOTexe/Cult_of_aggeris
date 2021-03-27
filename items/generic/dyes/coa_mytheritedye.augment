@@ -1,0 +1,15 @@
+{
+  "itemName" : "coa_mytheritedye",
+  "price" : 500,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "coa_mytheritedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "CoA Mytherite Dye",
+
+  "dyeDirectives" : {"ffca8a":"EBFAFF","e0975c":"BCCBD8","a85636":"8690A8","6f2919":"5C5D79"},
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

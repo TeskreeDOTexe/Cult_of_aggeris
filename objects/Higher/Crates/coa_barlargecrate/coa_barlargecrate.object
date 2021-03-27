@@ -1,0 +1,45 @@
+{
+  "objectName" : "coa_barlargecrate",
+  "colonyTags" : ["storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A rather large barred crate, looks more like a cage.",
+  "shortdescription" : "Large Barred Crate",
+  "race" : "glitch",
+  "category" : "storage",
+  "price" : 100,
+  "health" : 1.5,
+
+  "apexDescription" : "Doesn't seem like a crate, still useful I suppose?",
+  "avianDescription" : "Looks more like... a cage.",
+  "floranDescription" : "Looksss like prissson cell.",
+  "glitchDescription" : "Dread. If it wasn't supplies, it was people they were stuffing in these.",
+  "humanDescription" : "The bars on this container is pretty sturdy... Too sturdy.",
+  "hylotlDescription" : "This matieral is rather cold. Eugh, feels like touching ice.",
+  "novakidDescription" : "Hey, what's with them chains inside?",
+
+  "inventoryIcon" : "coa_barlargecrateicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_barlargecrate.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 24,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

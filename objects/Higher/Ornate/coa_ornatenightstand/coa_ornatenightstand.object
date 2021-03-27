@@ -1,0 +1,45 @@
+{
+  "objectName" : "coa_ornatenightstand",
+  "colonyTags" : ["storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A nice and sturdy crafted nightstand.",
+  "shortdescription" : "Ornate Nightstand",
+  "race" : "glitch",
+  "category" : "storage",
+  "price" : 100,
+  "health" : 1.5,
+
+  "apexDescription" : "Enough space for a few outfits... and maybe a spare banana...",
+  "avianDescription" : "I could keep all sorts of relics in these hidden compartments.",
+  "floranDescription" : "Funny chessst has sssliding doorssss",
+  "glitchDescription" : "Concerned. I remember the last time I dug through someones nightstand...",
+  "humanDescription" : "shirt, pants, socks and... where's the money!",
+  "hylotlDescription" : "Hmm... A few hidden comparents lie around this, wonder what they're hiding",
+  "novakidDescription" : "Eh? Nice size to hide my booze and guns.",
+
+  "inventoryIcon" : "coa_ornatenightstandicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_ornatenightstand.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

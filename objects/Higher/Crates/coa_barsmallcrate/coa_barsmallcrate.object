@@ -1,0 +1,45 @@
+{
+  "objectName" : "coa_barsmallcrate",
+  "colonyTags" : ["storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A rather small barred crate.",
+  "shortdescription" : "Small Barred Crate",
+  "race" : "glitch",
+  "category" : "storage",
+  "price" : 100,
+  "health" : 1.5,
+
+  "apexDescription" : "What would you even put in this?",
+  "avianDescription" : "Decent size for rodent traps. Not relaly useful for anything else.",
+  "floranDescription" : "Small box hasss barsss",
+  "glitchDescription" : "Concerned. These were rather useless for transportation...",
+  "humanDescription" : "It's roughly the size of a child. Thankfully, my parents didn't have this!",
+  "hylotlDescription" : "Hmm... Would be great for catching lobsters",
+  "novakidDescription" : "Eh? Lil'thang barely has a use.",
+
+  "inventoryIcon" : "coa_barsmallcrateicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_barsmallcrate.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

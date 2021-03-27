@@ -1,0 +1,15 @@
+{
+  "itemName" : "coa_zelfitzdye",
+  "price" : 500,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "coa_zelfitzdye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "CoA Zelfitz Dye",
+
+  "dyeDirectives" : {"ffca8a":"654D48","e0975c":"46352F","a85636":"281F1A","6f2919":"120E0C"},
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

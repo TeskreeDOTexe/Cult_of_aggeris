@@ -1,0 +1,15 @@
+{
+  "itemName" : "coa_chimeritedye",
+  "price" : 500,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "coa_chimeritedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "CoA Chimerite Dye",
+
+  "dyeDirectives" : {"ffca8a":"FFF6D8","e0975c":"E0B667","a85636":"A0671C","6f2919":"502E0D"},
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

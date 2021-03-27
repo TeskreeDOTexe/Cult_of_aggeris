@@ -1,0 +1,45 @@
+{
+  "objectName" : "coa_bluevaultcrate",
+  "colonyTags" : ["storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A large and well crafted vault.",
+  "shortdescription" : "Large Vault",
+  "race" : "glitch",
+  "category" : "storage",
+  "price" : 100,
+  "health" : 1.5,
+
+  "apexDescription" : "Theres engravings all over this thing.",
+  "avianDescription" : "Looks as if it could hold a small group inside.",
+  "floranDescription" : "Box big, very big.",
+  "glitchDescription" : "Dreadful. These not only held weapons and the sort but also people.",
+  "humanDescription" : "Huh, it's like my appartment back on ea- heh.",
+  "hylotlDescription" : "The crate is well fortified but rather drab.",
+  "novakidDescription" : "Reckon, could I put a horse or two in here?",
+
+  "inventoryIcon" : "coa_bluevaultcrateicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_bluevaultcrate.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 64,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

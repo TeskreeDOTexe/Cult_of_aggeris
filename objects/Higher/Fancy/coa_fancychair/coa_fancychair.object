@@ -1,0 +1,37 @@
+{
+  "objectName" : "coa_fancychair",
+  "colonyTags" : ["misc"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A fancy chair with a kjil seat.",
+  "shortdescription" : "Fancy Cushioned Chair",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 100,
+
+  "apexDescription" : "Compared to other chairs, I can work all day on this.",
+  "avianDescription" : "Oh, softer than my feathers!",
+  "floranDescription" : "Chair hasss pillow in it. Feelsss good to sssit.",
+  "glitchDescription" : "Disappointed. Sadly, no arm rest.",
+  "humanDescription" : "Bet'cha never sat on a chair THIS comfy.",
+  "hylotlDescription" : "Its a kjil cushioned chair. Fancy, not as nice as ours though.",
+  "novakidDescription" : "Its simple but nice to rest on after a long day.",
+
+  "inventoryIcon" : "coa_fancychairicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_fancychair.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [1, 21]
+
+}

@@ -1,0 +1,33 @@
+{
+  "objectName" : "coa_smallbanner1",
+  "colonyTags" : ["avian","avianvillage","pretty"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 100,
+  "description" : "A small banner with a woven moon.",
+  "shortdescription" : "Aerinthian Moon Banner",
+  "race" : "avian",
+
+  "apexDescription" : "Sometimes, history refuses to cover the past...",
+  "avianDescription" : "The dye is as gloom ridden as their history...",
+  "floranDescription" : "Floran no underssstand why moon.",
+  "glitchDescription" : "Nervous. It's just a banner, nothing to worry about.",
+  "humanDescription" : "I've read a few books on these banners, they belong to a cult of the sorts.",
+  "hylotlDescription" : "The mixture of these cloths is... odd but it's suiting",
+  "novakidDescription" : "This thing can barely soak up spilled beer.",
+
+  "inventoryIcon" : "coa_smallbanner1icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_smallbanner1.png:<color>",
+	  
+      "imagePosition" : [0, -8],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "bgAnchors" : [ [0, 0] ]
+
+    }
+  ]
+}

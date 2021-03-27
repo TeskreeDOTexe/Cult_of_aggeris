@@ -1,0 +1,57 @@
+{
+  "objectName" : "coa_plushcouch",
+  "colonyTags" : ["gothic"],
+  "printable" : false,
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 100,
+  "description" : "A plush couch with a blue dye finish.",
+  "shortdescription" : "Highend plush Couch",
+  "race" : "generic",
+
+  "apexDescription" : "To question the plushness of this couch would be a waste of time.",
+  "avianDescription" : "Maybe I can take a quick rest on this...",
+  "floranDescription" : "Floran think couch really sssoft.",
+  "glitchDescription" : "Relaxed. Mmmh feels good to sit back on a plush couch.",
+  "humanDescription" : "The couch, Its so soft I just sink in it!",
+  "hylotlDescription" : "A rather elegant design. As always, Hylotl furnishing is better!",
+  "novakidDescription":  "Softer than a snug snugget in a rug.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "inventoryIcon" : "coa_plushcouchicon.png",
+  "orientations" : [
+    {
+      "image" : "coa_plushcouch.png:<color>",
+      "sitCoverImage" : "/objects/Higher/coa_plushcouch/coa_plushcouchcover.png",
+      "imagePosition" : [-24, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-7, 21], // Right
+        [9, 21] // Left
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "coa_plushcouch.png:<color>",
+      "sitCoverImage" : "/objects/Higher/coa_plushcouch/coa_plushcouchcover.png",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-7, 21], // Left
+        [9, 21] // Right
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

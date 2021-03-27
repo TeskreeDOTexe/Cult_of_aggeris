@@ -1,0 +1,15 @@
+{
+  "itemName" : "coa_motedye",
+  "price" : 500,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "coa_motedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "CoA Mote Dye",
+
+  "dyeDirectives" : {"ffca8a":"F6FCFB","e0975c":"DDF5F5","a85636":"BBD6DE","6f2919":"9FACC6"},
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

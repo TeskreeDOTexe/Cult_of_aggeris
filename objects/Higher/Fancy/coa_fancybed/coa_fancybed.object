@@ -1,0 +1,46 @@
+{
+  "objectName" : "coa_fancybed",
+  "colonyTags" : ["misc","tier1"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A really soft and plush bed.",
+  "shortdescription" : "Fancy Bed",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 100,
+
+  "apexDescription" : "A soft and plush bed, might've been made for nobles.",
+  "avianDescription" : "This bed feels great on my feathers.",
+  "floranDescription" : "Floran findsss bed really sssoft.",
+  "glitchDescription" : "Amused. To think that I can rest on something THIS soft.",
+  "humanDescription" : "Wonder if the pillows are durable...",
+  "hylotlDescription" : "I must admit, the bed is rather soft. Softer than the ones back home.",
+  "novakidDescription" : "Soft and what not, but you just sink right through.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 13],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/Higher/Fancy/coa_fancybed/coa_fancybedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "coa_fancybedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_fancybed.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

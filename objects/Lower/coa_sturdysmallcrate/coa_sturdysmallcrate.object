@@ -1,0 +1,45 @@
+{
+  "objectName" : "coa_sturdysmallcrate",
+  "colonyTags" : ["storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A interlocking wooden crate.",
+  "shortdescription" : "Small Interlocking Crate",
+  "race" : "glitch",
+  "category" : "storage",
+  "price" : 100,
+  "health" : 1.5,
+
+  "apexDescription" : "Eugh, it'll take a few hours to open this.",
+  "avianDescription" : "Hmmm, I wonder whats inside this?",
+  "floranDescription" : "Wood box hard to open",
+  "glitchDescription" : "Surprised. More so a safe than a crate.",
+  "humanDescription" : "Oh, this thing is like a giant puzzle box!",
+  "hylotlDescription" : "A crate made of interlocking bars. Intriguing",
+  "novakidDescription" : "Too many things to pull around to open it.",
+
+  "inventoryIcon" : "coa_sturdysmallcrateicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_sturdysmallcrate.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

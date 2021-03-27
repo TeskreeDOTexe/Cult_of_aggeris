@@ -1,0 +1,33 @@
+{
+  "objectName" : "coa_book4",
+  "colonyTags" : ["glitch","pretty","evil"],
+  "rarity" : "Common",
+  "description" : " A large Zelfitz book.",
+  "shortdescription" : "Large Brown Book",
+  "race" : "glitch",
+  "category" : "decorative",
+  "price" : 100,
+
+  "apexDescription" : "I'm unable to read it but... this is some disturbing imagery.",
+  "avianDescription" : "I... wish I knew what it said...",
+  "floranDescription" : "Floran no underssstand what book sssays.",
+  "glitchDescription" : "Exhusted. Imagine having to carry roughly five of these things every day...",
+  "humanDescription" : "You know where I learned that from...? BHOOKS.",
+  "hylotlDescription" : "Well, it would be helpful if I understood what these said.",
+  "novakidDescription" : "This is a really snazzy coaster, a bit heavy though.",
+
+  "inventoryIcon" : "coa_book4icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_book4.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

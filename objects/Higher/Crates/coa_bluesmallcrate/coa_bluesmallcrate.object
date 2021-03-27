@@ -1,0 +1,45 @@
+{
+  "objectName" : "coa_bluesmallcrate",
+  "colonyTags" : ["storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A small wooden crate made with an old ore.",
+  "shortdescription" : "Small Wooden CoA Crate",
+  "race" : "glitch",
+  "category" : "storage",
+  "price" : 100,
+  "health" : 1.5,
+
+  "apexDescription" : "It's highly lacking in space, we'll ignore it for now.",
+  "avianDescription" : "A decent sized crate. could double as a table too!",
+  "floranDescription" : "Blue box is sssmall",
+  "glitchDescription" : "Relaxed. These used to hold assorted medical items.",
+  "humanDescription" : "The label suggest not to shake it... Maybe one rattle...",
+  "hylotlDescription" : "A small crate made of a rather freezing metal and wood.",
+  "novakidDescription" : "Heh, needed a new place to hold my beer.",
+
+  "inventoryIcon" : "coa_bluesmallcrateicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_bluesmallcrate.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

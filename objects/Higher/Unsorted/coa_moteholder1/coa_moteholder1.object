@@ -1,0 +1,51 @@
+{
+  "objectName" : "coa_moteholder1",
+  "colonyTags" : ["glitch","pretty","evil"],
+  "rarity" : "Common",
+  "description" : "A small mote, used for many things... Lights isn't one.",
+  "shortdescription" : "Mote Holder",
+  "race" : "glitch",
+  "category" : "decorative",
+  "price" : 100,
+
+  "apexDescription" : "Hmm, I wonder what could this be made of?",
+  "avianDescription" : "These remind me of the crystals we have back at home...",
+  "floranDescription" : "Floran don't like the tassste of sssshiny thing.",
+  "glitchDescription" : "Concerned. Seeing as it's used as a light, I might not have to worry about it exploding.",
+  "humanDescription" : "Huh, it feels waxy yet like glass at the same time.",
+  "hylotlDescription" : "I can already that someone might have chewed on this...",
+  "novakidDescription" : "Wow, it's like a little snugget",
+
+  "lightColor" : [179, 149, 107],
+
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.075,
+  "flickerIntensityVariance" : 0.025,
+
+ "inventoryIcon" : "coa_moteholder1icon.png",
+  "orientations" : [
+    {
+	  "imageLayers" : [ { "image" : "coa_moteholder1.png:<color>" }, { "image" : "coa_moteholder1lit.png:<color>", "fullbright" : true } ],
+	
+      "imagePosition" : [0, -0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+    {
+	  "imageLayers" : [ { "image" : "coa_moteholder1.png:<color>" }, { "image" : "coa_moteholder1lit.png:<color>", "fullbright" : true } ],
+	
+      "imagePosition" : [0, -0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ]
+}

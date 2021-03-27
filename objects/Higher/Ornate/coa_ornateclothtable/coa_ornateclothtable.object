@@ -1,0 +1,35 @@
+{
+  "objectName" : "coa_ornateclothtable",
+  "colonyTags" : ["commerce","executive"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A table with engravings all over, comes with a cloth too.",
+  "shortdescription" : "Clothed Ornate Table",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 100,
+
+  "apexDescription" : "Must take ease when eating a table THIS fancy.",
+  "avianDescription" : "Can't conduct most of our rituals on a table like this...",
+  "floranDescription" : "Table not good for meatsss.",
+  "glitchDescription" : "Approving. A table suited for royals.",
+  "humanDescription" : "Eh, could play some children card games on this.",
+  "hylotlDescription" : "This table is fancy, but the cloth gets in the way.",
+  "novakidDescription" : "Whoah, who hit the dust for a table like this to be out?",
+
+  "inventoryIcon" : "coa_ornateclothtableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_ornateclothtable.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

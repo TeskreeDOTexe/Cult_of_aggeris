@@ -1,0 +1,33 @@
+{
+  "objectName" : "coa_flag",
+  "colonyTags" : ["glitch","pretty","evil"],
+  "rarity" : "Common",
+  "description" : "A checkered flag displaying a crystal.",
+  "shortdescription" : "CoA Flag",
+  "race" : "glitch",
+  "category" : "decorative",
+  "price" : 100,
+
+  "apexDescription" : "Flags like these aren't a welcoming sight, right?",
+  "avianDescription" : "I... I don't really have anything to say about this...",
+  "floranDescription" : "Floran not underssstand flag's reassson.",
+  "glitchDescription" : "Concerned. If I recall, these are for CoA strongholds.",
+  "humanDescription" : "I got ink on my hands... Lovely",
+  "hylotlDescription" : "Surely, no hylotl would make something so disgusting.",
+  "novakidDescription" : "Okay, really now. Who keeps hanging their rugs out?",
+
+  "inventoryIcon" : "coa_flagicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_flag.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

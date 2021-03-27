@@ -1,0 +1,37 @@
+{
+  "objectName" : "coa_basicclothstool",
+  "colonyTags" : ["misc"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "An uncomfortable stool with a cozy leather cloth.",
+  "shortdescription" : "Zelfitz Covered Stool",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 100,
+
+  "apexDescription" : "Like the other stool, but the saving grace is this leather.",
+  "avianDescription" : "Oh my, this leather is soft.",
+  "floranDescription" : "Leather isss soft. Feelss good to touch.",
+  "glitchDescription" : "Moderate. Crude but comfy.",
+  "humanDescription" : "Oh boy, this leather is soft!",
+  "hylotlDescription" : "This very crudely made but I'll make the exeption for the leather.",
+  "novakidDescription" : "Softer than the cows back at the range.",
+
+  "inventoryIcon" : "coa_basicclothstoolicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_basicclothstool.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [0, 25]
+
+}

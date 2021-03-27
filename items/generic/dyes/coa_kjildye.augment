@@ -1,0 +1,15 @@
+{
+  "itemName" : "coa_kjildye",
+  "price" : 500,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "coa_kjildye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "CoA K'jil Dye",
+
+  "dyeDirectives" : {"ffca8a":"FFFFFF","e0975c":"F8F4E7","a85636":"C9B796","6f2919":"8E795D"},
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

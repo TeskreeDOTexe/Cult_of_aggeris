@@ -1,0 +1,15 @@
+{
+  "itemName" : "coa_verritedye",
+  "price" : 500,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "coa_verritedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "CoA Verrite Dye",
+
+  "dyeDirectives" : {"ffca8a":"838383","e0975c":"515555","a85636":"36393C","6f2919":"1E1F24"},
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

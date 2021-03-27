@@ -1,0 +1,35 @@
+{
+  "objectName" : "coa_smallclothtable",
+  "colonyTags" : ["commerce","executive"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A rather short table covered with Zelfitz leather.",
+  "shortdescription" : "Short Zelfitz Table",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 100,
+
+  "apexDescription" : "This... Table, it's too short for anything, really... It isn't.",
+  "avianDescription" : "At least I can rest my arms on something when praying?",
+  "floranDescription" : "Table too ssshort but leather isss soft.",
+  "glitchDescription" : "Displeased. The craft isn't the best nor is it useful.",
+  "humanDescription" : "Pretty sure this is a chair or a foot rest if anything.",
+  "hylotlDescription" : "Eugh, this drab leather on this horrid table. It's horrible.",
+  "novakidDescription" : "Eh, at least I could use it... for something probably?",
+
+  "inventoryIcon" : "coa_smallclothtableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_smallclothtable.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

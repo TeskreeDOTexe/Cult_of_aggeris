@@ -1,0 +1,35 @@
+{
+  "objectName" : "coa_simpleclothtable",
+  "colonyTags" : ["commerce","executive"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A simple table with a Zelfitz cover.",
+  "shortdescription" : "Lower Zelfitz Table",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 100,
+
+  "apexDescription" : "This table isn't the best for paper work.",
+  "avianDescription" : "Sturdy, flat and perfect for work... save for the leather",
+  "floranDescription" : "Floran thinksss table is fine but why leather.",
+  "glitchDescription" : "Approving. Still isn't cardboard.",
+  "humanDescription" : "Reminds me of the old reloading benches back at home.",
+  "hylotlDescription" : "Meh, our tables have such a... finer quality to them",
+  "novakidDescription" : "Wouldn't want to reload ammo or drink on this table.",
+  
+  "inventoryIcon" : "coa_simpleclothtableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_simpleclothtable.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

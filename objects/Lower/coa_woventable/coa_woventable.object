@@ -1,0 +1,35 @@
+{
+  "objectName" : "coa_woventable",
+  "colonyTags" : ["commerce","executive"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A neatly crafted woven table.",
+  "shortdescription" : "Lower Woven Table",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 100,
+
+  "apexDescription" : "This thing looks as if it could break any second.",
+  "avianDescription" : "Would be better as a basket if anything.",
+  "floranDescription" : "Table not good for holding meatsss.",
+  "glitchDescription" : "Displeased. This table couldn't hold three tomes.",
+  "humanDescription" : "I really have the urge to unweave this.",
+  "hylotlDescription" : "Okay, who removed the handle and turned it upside down?",
+  "novakidDescription" : "If needed, the table can become a hat!",
+
+  "inventoryIcon" : "coa_woventableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coa_woventable.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}
