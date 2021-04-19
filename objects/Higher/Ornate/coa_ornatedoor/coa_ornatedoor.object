@@ -18,6 +18,7 @@
   "novakidDescription" : "Looks good for target practice instead of a door...",
 
   "inventoryIcon" : "coa_ornatedoor.png",
+  "inventoryIcon" : "coa_ornatedooricon.png",
 
   "tooltipKind" : "door",
   "largeImage" : "coa_ornatedoor.png:right",
