@@ -17,7 +17,6 @@
   "hylotlDescription" : "Why would someone construct a wooden door with a heavy metal frame?",
   "novakidDescription" : "Looks good for target practice instead of a door...",
 
-  "inventoryIcon" : "coa_ornatedoor.png",
   "inventoryIcon" : "coa_ornatedooricon.png",
 
   "tooltipKind" : "door",

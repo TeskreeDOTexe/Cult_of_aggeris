@@ -17,6 +17,7 @@
   "hylotlDescription" : "A simple and 'fancy' door. Who'd leave such a ugly cloth on it?",
   "novakidDescription" : "Well.. it's a door.",
 
+  "inventoryIcon" : "coa_fancydooricon.png",
 
   "tooltipKind" : "door",
   "largeImage" : "coa_fancydoor.png:right",
