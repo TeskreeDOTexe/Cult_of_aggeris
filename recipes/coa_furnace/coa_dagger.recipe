@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "coa_refinedtimber", "count" : 2 },
+    { "item" : "coa_verritebar", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "coa_dagger",
+    "count" : 1
+  },
+  "duration" : 0,
+  "groups" : [ "coa_furnace", "weapons", "all" ]
+}
