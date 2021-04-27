@@ -1,3 +1,15 @@
 [
-{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_bountyboard" }}
+    //Objects
+{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_bountyboard" }},
+{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_furnace" }},
+
+    //Polearms
+{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_quarterstaff" }},
+
+    //One-handed
+{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_dagger" }},
+
+    //Materials
+{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_verritebar" }},
+{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_refinedtimber" }}
 ]
