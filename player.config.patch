@@ -9,7 +9,19 @@
     //One-handed
 {"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_dagger" }},
 
+    //Armours
+{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_survival_hood" }},
+{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_survival_chest" }},
+{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_survival_pants" }},
+
+{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_gambeson_chest" }},
+{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_gambeson_legs" }},
+
     //Materials
 {"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_verritebar" }},
-{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_refinedtimber" }}
+{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_refinedtimber" }},
+
+    //Misc
+{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_bluedye" }},
+{"op" : "add", "path" : "/defaultBlueprints/tier1/-", "value": { "item" : "coa_verritedye" }}
 ]
