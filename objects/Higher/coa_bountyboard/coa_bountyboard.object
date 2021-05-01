@@ -19,7 +19,7 @@
 
   "interactAction" : "OpenMerchantInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/vendingmachine.config",
+    "config" : "/interface/windowconfig/coa_merchant.config",
     "paneLayoutOverride" : {
       "windowtitle" : {	
         "title" : "Notice Board",
@@ -29,7 +29,9 @@
     "buyFactor" : 0.5,
     "sellFactor" : 0.2,
     "items" : [
-	    { "item" : "coa_survival_hood"},
+    { "item" : "coa_furnace"},
+    { "item" : "coa_loom"},
+	  { "item" : "coa_survival_hood"},
     { "item" : "coa_survival_chest"},
     { "item" : "coa_survival_pants"},
 	  { "item" : "coa_ornatetable" },
