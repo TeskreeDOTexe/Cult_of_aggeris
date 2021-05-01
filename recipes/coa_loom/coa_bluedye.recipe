@@ -1,0 +1,11 @@
+{
+  "input" : [
+	{ "item" : "petalblue", "count" : 15 }
+  ],
+  "output" : {
+    "item" : "coa_bluedye",
+    "count" : 4
+  },
+  "duration" : 0,
+  "groups" : [ "coa_loom", "dyes", "all" ]
+}

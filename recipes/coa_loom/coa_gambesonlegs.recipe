@@ -1,0 +1,12 @@
+{
+  "input" : [
+  { "item" : "string", "count" : 2 },
+  { "item" : "leather", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "coa_gambeson_legs",
+    "count" : 1
+  },
+  "duration" : 0,
+  "groups" : [ "coa_loom", "clothes", "all" ]
+}

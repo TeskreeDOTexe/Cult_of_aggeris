@@ -1,0 +1,11 @@
+{
+  "input" : [
+	{ "item" : "fabric", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "coa_survival_hood",
+    "count" : 1
+  },
+  "duration" : 0,
+  "groups" : [ "coa_loom", "clothes", "all" ]
+}

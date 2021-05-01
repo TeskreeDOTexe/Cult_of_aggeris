@@ -1,0 +1,14 @@
+[
+    {
+        "op": "replace",
+        "path": "/input",
+        "value": [
+            {"item": "plantfibre", "count": 4}
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/groups/-",
+        "value": "coa_loom"
+    }
+]

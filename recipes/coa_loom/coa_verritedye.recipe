@@ -1,0 +1,11 @@
+{
+  "input" : [
+	{ "item" : "coa_verritebar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "coa_verritedye",
+    "count" : 4
+  },
+  "duration" : 0,
+  "groups" : [ "coa_loom", "dyes", "all" ]
+}
