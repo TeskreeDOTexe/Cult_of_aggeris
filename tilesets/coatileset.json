@@ -1,0 +1,1230 @@
+{ "columns":0,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json1",
+         "target":"coatileset.json"
+        }
+    },
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"coatileset",
+ "spacing":0,
+ "tilecount":46,
+ "tiledversion":"1.4.3",
+ "tileheight":56,
+ "tileproperties":
+    {
+     "0":
+        {
+         "\/\/description":"A peculiar crate fortified with lost ores.",
+         "\/\/name":"Large CoA Crate",
+         "\/\/shortdescription":"Large CoA Crate",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_bluelargecrate",
+         "tilesetDirection":"right"
+        },
+     "1":
+        {
+         "\/\/description":"A small wooden crate made with an old ore.",
+         "\/\/name":"Small Wooden CoA Crate",
+         "\/\/shortdescription":"Small Wooden CoA Crate",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"coa_bluesmallcrate",
+         "tilesetDirection":"right"
+        },
+     "10":
+        {
+         "\/\/description":"A interlocking wooden crate.",
+         "\/\/name":"Small Interlocking Crate",
+         "\/\/shortdescription":"Small Interlocking Crate",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"coa_sturdysmallcrate",
+         "tilesetDirection":"right"
+        },
+     "11":
+        {
+         "\/\/description":"A plush couch with a blue dye finish.",
+         "\/\/name":"Highend plush Couch",
+         "\/\/shortdescription":"Highend plush Couch",
+         "imagePositionX":"-24",
+         "imagePositionY":"0",
+         "object":"coa_plushcouch",
+         "tilesetDirection":"right"
+        },
+     "12":
+        {
+         "\/\/description":"A short and soft stool.",
+         "\/\/name":"Fancy Coushioned Stool",
+         "\/\/shortdescription":"Fancy Coushioned Stool",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"coa_softstool",
+         "tilesetDirection":"right"
+        },
+     "13":
+        {
+         "\/\/description":"A small ornate bed.",
+         "\/\/name":"Highend Ornate Bed",
+         "\/\/shortdescription":"Highend Ornate Bed",
+         "imagePositionX":"-24",
+         "imagePositionY":"0",
+         "object":"coa_ornatebed",
+         "tilesetDirection":"right"
+        },
+     "14":
+        {
+         "\/\/description":"A chair with beautiful engravings.",
+         "\/\/name":"Highend Ornate Chair",
+         "\/\/shortdescription":"Highend Ornate Chair",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"coa_ornatechair",
+         "tilesetDirection":"right"
+        },
+     "15":
+        {
+         "\/\/description":"A table with engravings all over, comes with a cloth too.",
+         "\/\/name":"Clothed Ornate Table",
+         "\/\/shortdescription":"Clothed Ornate Table",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_ornateclothtable",
+         "tilesetDirection":"right"
+        },
+     "16":
+        {
+         "\/\/description":"A table with engravings all over.",
+         "\/\/name":"Highend Ornate Table",
+         "\/\/shortdescription":"Highend Ornate Table",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_ornatetable",
+         "tilesetDirection":"right"
+        },
+     "17":
+        {
+         "\/\/description":"A nice and sturdy crafted nightstand.",
+         "\/\/name":"Ornate Nightstand",
+         "\/\/shortdescription":"Ornate Nightstand",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"coa_ornatenightstand",
+         "tilesetDirection":"right"
+        },
+     "18":
+        {
+         "\/\/description":"A ornate door with a heavy stopper on top.",
+         "\/\/name":"Barred Ornate Door",
+         "\/\/shortdescription":"Barred Ornate Door",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_ornatedoor",
+         "tilesetDirection":"right"
+        },
+     "19":
+        {
+         "\/\/description":"A really soft and plush bed.",
+         "\/\/name":"Fancy Bed",
+         "\/\/shortdescription":"Fancy Bed",
+         "imagePositionX":"-24",
+         "imagePositionY":"0",
+         "object":"coa_fancybed",
+         "tilesetDirection":"right"
+        },
+     "2":
+        {
+         "\/\/description":"A large and well crafted vault.",
+         "\/\/name":"Large Vault",
+         "\/\/shortdescription":"Large Vault",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_bluevaultcrate",
+         "tilesetDirection":"right"
+        },
+     "20":
+        {
+         "\/\/description":"A fancy chair with a kjil seat.",
+         "\/\/name":"Fancy Cushioned Chair",
+         "\/\/shortdescription":"Fancy Cushioned Chair",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"coa_fancychair",
+         "tilesetDirection":"right"
+        },
+     "21":
+        {
+         "\/\/description":"A fancy clothed table.",
+         "\/\/name":"Fancy Clothed Table",
+         "\/\/shortdescription":"Fancy Clothed Table",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_fancyclothtable",
+         "tilesetDirection":"right"
+        },
+     "22":
+        {
+         "\/\/description":"A beautiful wooden table.",
+         "\/\/name":"Fancy Wooden Table",
+         "\/\/shortdescription":"Fancy Wooden Table",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_fancytable",
+         "tilesetDirection":"right"
+        },
+     "23":
+        {
+         "\/\/description":"A door bearing a family banner.",
+         "\/\/name":"Fancy Wooden Door",
+         "\/\/shortdescription":"Fancy Wooden Door",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_fancydoor",
+         "tilesetDirection":"right"
+        },
+     "24":
+        {
+         "\/\/description":"A weapon rack with two Mytherrite spears.",
+         "\/\/name":"Mytherrite spear rack",
+         "\/\/shortdescription":"Mytherrite spear rack",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_spearrack1",
+         "tilesetDirection":"right"
+        },
+     "25":
+        {
+         "\/\/description":"An empty weapon rack for spears.",
+         "\/\/name":"Empty Spear Rack",
+         "\/\/shortdescription":"Empty Spear Rack",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_spearrack2",
+         "tilesetDirection":"right"
+        },
+     "26":
+        {
+         "\/\/description":"A very uncomfortable-looking chair.",
+         "\/\/name":"Lower Wooden Chair",
+         "\/\/shortdescription":"Lower Wooden Chair",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"coa_basicchair",
+         "tilesetDirection":"right"
+        },
+     "27":
+        {
+         "\/\/description":"An uncomfortable chair with a cozy leather cloth.",
+         "\/\/name":"Zelfitz Covered Chair",
+         "\/\/shortdescription":"Zelfitz Covered Chair",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_basicclothchair",
+         "tilesetDirection":"right"
+        },
+     "28":
+        {
+         "\/\/description":"An uncomfortable-looking wooden chair.",
+         "\/\/name":"Lower Wooden Chair",
+         "\/\/shortdescription":"Lower Wooden Chair",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_basicstool",
+         "tilesetDirection":"right"
+        },
+     "29":
+        {
+         "\/\/description":"An uncomfortable stool with a cozy leather cloth.",
+         "\/\/name":"Zelfitz Covered Stool",
+         "\/\/shortdescription":"Zelfitz Covered Stool",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_basicclothstool",
+         "tilesetDirection":"right"
+        },
+     "3":
+        {
+         "\/\/description":"A rather small barred crate.",
+         "\/\/name":"Small Barred Crate",
+         "\/\/shortdescription":"Small Barred Crate",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"coa_barsmallcrate",
+         "tilesetDirection":"right"
+        },
+     "30":
+        {
+         "\/\/description":"A decently made table, could be better.",
+         "\/\/name":"Lower Wooden Table",
+         "\/\/shortdescription":"Lower Wooden Table",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_simpletable",
+         "tilesetDirection":"right"
+        },
+     "31":
+        {
+         "\/\/description":"A simple table with a Zelfitz cover.",
+         "\/\/name":"Lower Zelfitz Table",
+         "\/\/shortdescription":"Lower Zelfitz Table",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_simpleclothtable",
+         "tilesetDirection":"right"
+        },
+     "32":
+        {
+         "\/\/description":"A crude but decent quality short table.",
+         "\/\/name":"Short Lower Table",
+         "\/\/shortdescription":"Short Lower Table",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"coa_smalltable",
+         "tilesetDirection":"right"
+        },
+     "33":
+        {
+         "\/\/description":"A rather short table covered with Zelfitz leather.",
+         "\/\/name":"Short Zelfitz Table",
+         "\/\/shortdescription":"Short Zelfitz Table",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"coa_smallclothtable",
+         "tilesetDirection":"right"
+        },
+     "34":
+        {
+         "\/\/description":"A neatly crafted woven table.",
+         "\/\/name":"Lower Woven Table",
+         "\/\/shortdescription":"Lower Woven Table",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_woventable",
+         "tilesetDirection":"right"
+        },
+     "35":
+        {
+         "\/\/description":"Smelt ores and produce armaments.",
+         "\/\/name":"Cobblestone Forge",
+         "\/\/shortdescription":"Cobblestone Forge",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"coa_furnace",
+         "tilesetDirection":"right"
+        },
+     "36":
+        {
+         "\/\/description":"a cloth of coag",
+         "\/\/name":"coagloom",
+         "\/\/shortdescription":"coagloom",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"coa_loom",
+         "tilesetDirection":"right"
+        },
+     "37":
+        {
+         "\/\/description":"Make potions and volatile concoctions, especially with motes.",
+         "\/\/name":"Chemistry Station",
+         "\/\/shortdescription":"Chemistry Station",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_chemstation",
+         "tilesetDirection":"right"
+        },
+     "38":
+        {
+         "\/\/description":"Assorted test tubes of various fluids.",
+         "\/\/name":"Wide Vial Rack",
+         "\/\/shortdescription":"Wide Vial Rack",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"coa_vialrack2",
+         "tilesetDirection":"right"
+        },
+     "39":
+        {
+         "\/\/description":"A controlled sample of a unknown fluid.",
+         "\/\/name":"Single Vial Rack",
+         "\/\/shortdescription":"Single Vial Rack",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"coa_vialrack1",
+         "tilesetDirection":"right"
+        },
+     "4":
+        {
+         "\/\/description":"A rather large barred crate, looks more like a cage.",
+         "\/\/name":"Large Barred Crate",
+         "\/\/shortdescription":"Large Barred Crate",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_barlargecrate",
+         "tilesetDirection":"right"
+        },
+     "40":
+        {
+         "\/\/description":"A small mote, used for many things... Lights isn't one.",
+         "\/\/name":"Mote Holder",
+         "\/\/shortdescription":"Mote Holder",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"coa_moteholder1",
+         "tilesetDirection":"right"
+        },
+     "41":
+        {
+         "\/\/description":"A small mortar and pestle for your alchemical needs.",
+         "\/\/name":"Mortar and Pestle",
+         "\/\/shortdescription":"Mortar and Pestle",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"coa_mortar",
+         "tilesetDirection":"right"
+        },
+     "42":
+        {
+         "\/\/description":" A large Zelfitz book.",
+         "\/\/name":"Large Brown Book",
+         "\/\/shortdescription":"Large Brown Book",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"coa_book4",
+         "tilesetDirection":"right"
+        },
+     "43":
+        {
+         "\/\/description":" A large Zelfitz and blue dyed book.",
+         "\/\/name":"Standing And Fallen Books",
+         "\/\/shortdescription":"Standing And Fallen Books",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"coa_book3",
+         "tilesetDirection":"right"
+        },
+     "44":
+        {
+         "\/\/description":" A large Zelfitz and blue dyed book.",
+         "\/\/name":"Large Pair of Books",
+         "\/\/shortdescription":"Large Pair of Books",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"coa_book2",
+         "tilesetDirection":"right"
+        },
+     "45":
+        {
+         "\/\/description":" A large blue dyed book.",
+         "\/\/name":"Large CoA Book",
+         "\/\/shortdescription":"Large CoA Book",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"coa_book1",
+         "tilesetDirection":"right"
+        },
+     "5":
+        {
+         "\/\/description":"A notice board with a bunch of used furnishings on sale.",
+         "\/\/name":"Notice Board",
+         "\/\/shortdescription":"Notice Board",
+         "imagePositionX":"-22",
+         "imagePositionY":"0",
+         "object":"coa_bountyboard",
+         "tilesetDirection":"right"
+        },
+     "6":
+        {
+         "\/\/description":"A checkered flag displaying a crystal.",
+         "\/\/name":"CoA Flag",
+         "\/\/shortdescription":"CoA Flag",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"coa_flag",
+         "tilesetDirection":"right"
+        },
+     "7":
+        {
+         "\/\/description":"A thick woven banner depicting a large crystal.",
+         "\/\/name":"CoA Banner",
+         "\/\/shortdescription":"CoA Banner",
+         "imagePositionX":"-8",
+         "imagePositionY":"-32",
+         "object":"coa_largebanner1",
+         "tilesetDirection":"right"
+        },
+     "8":
+        {
+         "\/\/description":"A small banner with a woven moon.",
+         "\/\/name":"Aerinthian Moon Banner",
+         "\/\/shortdescription":"Aerinthian Moon Banner",
+         "imagePositionX":"0",
+         "imagePositionY":"-8",
+         "object":"coa_smallbanner1",
+         "tilesetDirection":"right"
+        },
+     "9":
+        {
+         "\/\/description":"A interlocking wooden crate.",
+         "\/\/name":"Large Interlocking Crate",
+         "\/\/shortdescription":"Large Interlocking Crate",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"coa_sturdylargecrate",
+         "tilesetDirection":"right"
+        }
+    },
+ "tilepropertytypes":
+    {
+     "0":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "1":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "10":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "11":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "12":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "13":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "14":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "15":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "16":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "17":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "18":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "19":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "2":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "20":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "21":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "22":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "23":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "24":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "25":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "26":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "27":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "28":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "29":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "3":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "30":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "31":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "32":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "33":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "34":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "35":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "36":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "37":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "38":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "39":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "4":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "40":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "41":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "42":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "43":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "44":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "45":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "5":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "6":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "7":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "8":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "9":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        }
+    },
+ "tiles":
+    {
+     "0":
+        {
+         "image":"..\/objects\/Higher\/Crates\/coa_bluelargecrate\/coa_bluelargecrate.png",
+         "imageheight":24,
+         "imagewidth":32
+        },
+     "1":
+        {
+         "image":"..\/objects\/Higher\/Crates\/coa_bluesmallcrate\/coa_bluesmallcrate.png",
+         "imageheight":16,
+         "imagewidth":24
+        },
+     "10":
+        {
+         "image":"..\/objects\/Lower\/coa_sturdysmallcrate\/coa_sturdysmallcrate.png",
+         "imageheight":16,
+         "imagewidth":40
+        },
+     "11":
+        {
+         "image":"..\/objects\/Higher\/coa_plushcouch\/coa_plushcouch.png",
+         "imageheight":24,
+         "imagewidth":48
+        },
+     "12":
+        {
+         "image":"..\/objects\/Higher\/coa_softstool\/coa_softstool.png",
+         "imageheight":16,
+         "imagewidth":16
+        },
+     "13":
+        {
+         "image":"..\/objects\/Higher\/Ornate\/coa_ornatebed\/coa_ornatebed.png",
+         "imageheight":16,
+         "imagewidth":48
+        },
+     "14":
+        {
+         "image":"..\/objects\/Higher\/Ornate\/coa_ornatechair\/coa_ornatechair.png",
+         "imageheight":24,
+         "imagewidth":16
+        },
+     "15":
+        {
+         "image":"..\/objects\/Higher\/Ornate\/coa_ornateclothtable\/coa_ornateclothtable.png",
+         "imageheight":16,
+         "imagewidth":64
+        },
+     "16":
+        {
+         "image":"..\/objects\/Higher\/Ornate\/coa_ornatetable\/coa_ornatetable.png",
+         "imageheight":16,
+         "imagewidth":64
+        },
+     "17":
+        {
+         "image":"..\/objects\/Higher\/Ornate\/coa_ornatenightstand\/coa_ornatenightstand.png",
+         "imageheight":16,
+         "imagewidth":24
+        },
+     "18":
+        {
+         "image":"..\/objects\/Higher\/Ornate\/coa_ornatedoor\/coa_ornatedoorimage.png",
+         "imageheight":40,
+         "imagewidth":40
+        },
+     "19":
+        {
+         "image":"..\/objects\/Higher\/Fancy\/coa_fancybed\/coa_fancybed.png",
+         "imageheight":24,
+         "imagewidth":48
+        },
+     "2":
+        {
+         "image":"..\/objects\/Higher\/Crates\/coa_bluevaultcrate\/coa_bluevaultcrate.png",
+         "imageheight":32,
+         "imagewidth":48
+        },
+     "20":
+        {
+         "image":"..\/objects\/Higher\/Fancy\/coa_fancychair\/coa_fancychair.png",
+         "imageheight":24,
+         "imagewidth":16
+        },
+     "21":
+        {
+         "image":"..\/objects\/Higher\/Fancy\/coa_fancyclothtable\/coa_fancyclothtable.png",
+         "imageheight":16,
+         "imagewidth":32
+        },
+     "22":
+        {
+         "image":"..\/objects\/Higher\/Fancy\/coa_fancytable\/coa_fancytable.png",
+         "imageheight":16,
+         "imagewidth":32
+        },
+     "23":
+        {
+         "image":"..\/objects\/Higher\/Fancy\/coa_fancydoor\/coa_fancydoorimage.png",
+         "imageheight":40,
+         "imagewidth":40
+        },
+     "24":
+        {
+         "image":"..\/objects\/Misc\/coaweaponracks\/coarack1\/coa_spearrack1.png",
+         "imageheight":40,
+         "imagewidth":32
+        },
+     "25":
+        {
+         "image":"..\/objects\/Misc\/coaweaponracks\/coarack2\/coa_spearrack2.png",
+         "imageheight":40,
+         "imagewidth":32
+        },
+     "26":
+        {
+         "image":"..\/objects\/Lower\/coa_basicchair\/coa_basicchair.png",
+         "imageheight":24,
+         "imagewidth":16
+        },
+     "27":
+        {
+         "image":"..\/objects\/Lower\/coa_basicclothchair\/coa_basicclothchair.png",
+         "imageheight":24,
+         "imagewidth":32
+        },
+     "28":
+        {
+         "image":"..\/objects\/Lower\/coa_basicstool\/coa_basicstool.png",
+         "imageheight":16,
+         "imagewidth":32
+        },
+     "29":
+        {
+         "image":"..\/objects\/Lower\/coa_basicclothstool\/coa_basicclothstool.png",
+         "imageheight":16,
+         "imagewidth":32
+        },
+     "3":
+        {
+         "image":"..\/objects\/Higher\/Crates\/coa_barsmallcrate\/coa_barsmallcrate.png",
+         "imageheight":16,
+         "imagewidth":24
+        },
+     "30":
+        {
+         "image":"..\/objects\/Lower\/coa_simpletable\/coa_simpletable.png",
+         "imageheight":16,
+         "imagewidth":32
+        },
+     "31":
+        {
+         "image":"..\/objects\/Lower\/coa_simpleclothtable\/coa_simpleclothtable.png",
+         "imageheight":16,
+         "imagewidth":32
+        },
+     "32":
+        {
+         "image":"..\/objects\/Lower\/coa_smalltable\/coa_smalltable.png",
+         "imageheight":8,
+         "imagewidth":16
+        },
+     "33":
+        {
+         "image":"..\/objects\/Lower\/coa_smallclothtable\/coa_smallclothtable.png",
+         "imageheight":8,
+         "imagewidth":16
+        },
+     "34":
+        {
+         "image":"..\/objects\/Lower\/coa_woventable\/coa_woventable.png",
+         "imageheight":16,
+         "imagewidth":24
+        },
+     "35":
+        {
+         "image":"..\/objects\/crafting\/coa_furnace\/coa_furnaceimage.png",
+         "imageheight":56,
+         "imagewidth":32
+        },
+     "36":
+        {
+         "image":"..\/objects\/crafting\/coa_loom\/coa_loom.png",
+         "imageheight":32,
+         "imagewidth":48
+        },
+     "37":
+        {
+         "image":"..\/objects\/crafting\/coa_chemstation\/coa_chemstationimage.png",
+         "imageheight":32,
+         "imagewidth":48
+        },
+     "38":
+        {
+         "image":"..\/objects\/Higher\/Unsorted\/coa_vialrack2\/coa_vialrack2.png",
+         "imageheight":16,
+         "imagewidth":16
+        },
+     "39":
+        {
+         "image":"..\/objects\/Higher\/Unsorted\/coa_vialrack1\/coa_vialrack1.png",
+         "imageheight":16,
+         "imagewidth":8
+        },
+     "4":
+        {
+         "image":"..\/objects\/Higher\/Crates\/coa_barlargecrate\/coa_barlargecrate.png",
+         "imageheight":24,
+         "imagewidth":32
+        },
+     "40":
+        {
+         "image":"..\/objects\/Higher\/Unsorted\/coa_moteholder1\/coa_moteholder1.png",
+         "imageheight":8,
+         "imagewidth":8
+        },
+     "41":
+        {
+         "image":"..\/objects\/Higher\/Unsorted\/coa_mortar\/coa_mortar.png",
+         "imageheight":8,
+         "imagewidth":8
+        },
+     "42":
+        {
+         "image":"..\/objects\/Higher\/Unsorted\/coa_book4\/coa_book4.png",
+         "imageheight":8,
+         "imagewidth":16
+        },
+     "43":
+        {
+         "image":"..\/objects\/Higher\/Unsorted\/coa_book3\/coa_book3.png",
+         "imageheight":16,
+         "imagewidth":24
+        },
+     "44":
+        {
+         "image":"..\/objects\/Higher\/Unsorted\/coa_book2\/coa_book2.png",
+         "imageheight":16,
+         "imagewidth":16
+        },
+     "45":
+        {
+         "image":"..\/objects\/Higher\/Unsorted\/coa_book1\/coa_book1.png",
+         "imageheight":16,
+         "imagewidth":16
+        },
+     "5":
+        {
+         "image":"..\/objects\/Higher\/coa_bountyboard\/coa_bountyboard.png",
+         "imageheight":40,
+         "imagewidth":48
+        },
+     "6":
+        {
+         "image":"..\/objects\/Higher\/coa_flag\/coa_flag.png",
+         "imageheight":40,
+         "imagewidth":16
+        },
+     "7":
+        {
+         "image":"..\/objects\/Higher\/coa_largebanner1\/coa_largebanner1.png",
+         "imageheight":40,
+         "imagewidth":24
+        },
+     "8":
+        {
+         "image":"..\/objects\/Higher\/coa_smallbanner1\/coa_smallbanner1.png",
+         "imageheight":16,
+         "imagewidth":8
+        },
+     "9":
+        {
+         "image":"..\/objects\/Lower\/coa_sturdylargecrate\/coa_sturdylargecrate.png",
+         "imageheight":24,
+         "imagewidth":48
+        }
+    },
+ "tilewidth":64,
+ "type":"tileset",
+ "version":1.1
+}
