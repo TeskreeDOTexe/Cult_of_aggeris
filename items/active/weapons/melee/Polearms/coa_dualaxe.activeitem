@@ -1,0 +1,29 @@
+{
+  "itemName" : "coa_dualaxe",
+  "price" : 500,
+  "level" : 4,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Two sides to hit, even more weight for far more damage.",
+  "shortdescription" : "Dual headed axe",
+  "tooltipKind" : "object",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword"],
+  "inventoryIcon" : "coa_dualaxe.png",
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "coa_dualaxe.png"
+  },
+  "animationCustom" : { },
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "physical",
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.89,
+    "baseDps" : 7
+  },
+  "altAbilityType" : "parry",
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

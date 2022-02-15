@@ -1,0 +1,29 @@
+{
+  "itemName" : "coa_eveningstar",
+  "price" : 500,
+  "level" : 4,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Indomitable and abominable. outrageously heavy and powerful.",
+  "shortdescription" : "Verrite Eveningstar",
+  "tooltipKind" : "object",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword"],
+  "inventoryIcon" : "coa_eveningstar.png",
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "coa_eveningstar.png"
+  },
+  "animationCustom" : { },
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "physical",
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.89,
+    "baseDps" : 7
+  },
+  "altAbilityType" : "parry",
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}
