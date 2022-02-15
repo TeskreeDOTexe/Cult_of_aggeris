@@ -1,10 +1,10 @@
 {
-  "objectName" : "coa_furnace",
+  "objectName" : "coa_chemstation",
   "colonyTags" : ["crafting"],
   "category" : "crafting",
-  "rarity" : "Uncommon",
-  "description" : "Smelt ores and produce armaments.",
-  "shortdescription" : "Cobblestone Forge",
+  "rarity" : "Rare",
+  "description" : "Make potions and volatile concoctions, especially with motes.",
+  "shortdescription" : "Chemistry Station",
   "race" : "generic",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
@@ -18,7 +18,7 @@
         }
       }
     },
-    "filter" : ["coa_furnace"]
+    "filter" : ["coa_chemstation"]
   },
   "printable" : false,
   "price" : 65,
@@ -31,18 +31,34 @@
   "hylotlDescription" : "Probably used in metal work.",
   "novakidDescription" : "An anvil. I'm no stranger to these.",
 
-  "inventoryIcon" : "coa_furnace.png",
+   "lightColor" : [119, 89, 47],
+
+  "inventoryIcon" : "coa_chemstationicon.png",
   "orientations" : [
     {
-      "dualImage" : "coa_furnace.png:<color>.<frame>",
+      "imageLayers" : [ { "image" : "coa_chemstation.png:<color>.<frame>" }, { "image" : "coa_chemstationlit.png:<color>.<frame>", "fullbright" : true  } ],
+      "direction" : "left",
+      "flipImages" : true,
 
-      "imagePosition" : [-8, 0],
-      "frames" : 8,
-      "animationCycle" : 1.0,
+      "imagePosition" : [-16, 0],
+      "frames" : 7,
+      "animationCycle" : 1.2,
 
       "spaceScan" : 0.1,
+      "lightPosition" : [-0.2, 1],
       "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "coa_chemstation.png:<color>.<frame>" }, { "image" : "coa_chemstationlit.png:<color>.<frame>", "fullbright" : true  } ],
+      "direction" : "right",
 
+      "imagePosition" : [-16, 0],
+      "frames" : 7,
+      "animationCycle" : 1.2,
+
+      "spaceScan" : 0.1,
+      "lightPosition" : [1.2, 1],
+      "anchors" : [ "bottom" ]
     }
   ],
 
