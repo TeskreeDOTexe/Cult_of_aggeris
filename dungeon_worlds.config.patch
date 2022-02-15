@@ -1,0 +1,17 @@
+[
+    {
+    "op": "add",
+    "path": "/coacanyon",
+    "value": {
+            "primaryDungeon": "coacanyon",
+            "threatLevel": 1,
+            "gravity": 80,
+            "worldSize": [2000, 2000],
+            "dungeonBaseHeight": 1000,
+            "ambientLightLevel": [128, 128, 128],
+            "biome" : "desert",
+            "ambientNoises": "/sfx/environmental/space_loop4.ogg",
+            "musicTrack": "/music/temple-of-kluex.ogg"
+        }
+    }
+]

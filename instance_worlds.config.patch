@@ -1,0 +1,37 @@
+[
+    {
+        "op": "add",
+        "path": "/coacanyon",
+        "value": {
+            "type": "FloatingDungeon",
+            "dungeonWorld": "coacanyon",
+            "seed": 1234,
+            "spawningEnabled": false,
+            "beamUpRule": "Anywhere",
+            "disableDeathDrops": true,
+            "worldProperties": {"nonCombat": true},
+            "skyParameters": {
+                "spaceLevel": 3000,
+                "ambientLightLevel": [24, 28, 24],
+                "skyType": "atmospheric",
+        "skyColoring" : {
+        "mainColor" : [255, 255, 255],
+
+        "morningColors" : [ [115, 224, 255], [255, 255, 255] ],
+        "dayColors" : [ [115, 224, 255], [255, 255, 255] ],
+        "eveningColors" : [ [255, 118, 72], [225, 147, 85] ],
+        "nightColors" : [ [255, 118, 72], [255, 177, 115] ],
+
+        "morningLightColor" : [200, 200, 200],
+        "dayLightColor" : [200, 200, 200],
+        "eveningLightColor" : [150, 150, 150],
+        "nightLightColor" : [150, 150, 150]
+      },
+                "horizonImages": [],
+                "dayLength": 1153.36,
+                "surfaceLevel": 1200,
+                "seed": -5288806180628667000
+            }
+        }
+    }
+]
